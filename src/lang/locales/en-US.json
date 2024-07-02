@@ -1,0 +1,8 @@
+{
+	"common": {
+		"hello": "Hello",
+		"home": "home",
+		"test": "test",
+		"setting": "setting"
+	}
+}

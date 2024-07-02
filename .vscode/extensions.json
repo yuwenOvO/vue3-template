@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "rikka.folder-alias",
+    "esbenp.prettier-vscode",
+    "vue.volar",
+    "stylelint.vscode-stylelint"
+  ]
+}
