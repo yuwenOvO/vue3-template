@@ -23,7 +23,7 @@ export default defineConfig({
 				/\.vue$/, // .vue
 				/\.vue\?vue/, // .vue
 			],
-			imports: ['vue', 'vue-router', 'pinia', 'vue-i18n', 'vue-router'],
+			imports: ['vue', 'vue-router', 'pinia', 'vue-i18n'],
 		}),
 		createSvgIconsPlugin({
 			iconDirs: [path.resolve(process.cwd(), 'src/assets/icons')],
